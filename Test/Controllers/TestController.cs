@@ -6,7 +6,7 @@ namespace Test.Controllers
     [Route("[controller]")]
     public class TestController : ControllerBase
     {
-        [HttpGet]
+        [HttpGet]   
         public string GetTestData()
         {
             return "This is GetTestData Function";
