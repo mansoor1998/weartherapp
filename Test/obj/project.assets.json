@@ -229,11 +229,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Volume B\\Projects\\Backend\\DOT NET - CORE\\Test\\Test\\Test.csproj",
+      "projectUniqueName": "D:\\Volume B\\Projects\\Backend\\DOT NET - CORE\\weartherapp\\Test\\Test.csproj",
       "projectName": "Test",
-      "projectPath": "D:\\Volume B\\Projects\\Backend\\DOT NET - CORE\\Test\\Test\\Test.csproj",
+      "projectPath": "D:\\Volume B\\Projects\\Backend\\DOT NET - CORE\\weartherapp\\Test\\Test.csproj",
       "packagesPath": "C:\\Users\\Mansoor\\.nuget\\packages\\",
-      "outputPath": "D:\\Volume B\\Projects\\Backend\\DOT NET - CORE\\Test\\Test\\obj\\",
+      "outputPath": "D:\\Volume B\\Projects\\Backend\\DOT NET - CORE\\weartherapp\\Test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mansoor\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -9,7 +9,7 @@ namespace Test.Controllers
         [HttpGet]
         public string GetTestData()
         {
-            return "This will be returning the test string";
+            return "This is GetTestData Function";
         }
     }
 }
